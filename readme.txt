@@ -1,0 +1,1 @@
+We are developing this web app using Yii Framework. To deploy this app first clone this repo on your www directory. Before the www directory put the framework folder. 
